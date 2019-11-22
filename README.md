@@ -11,13 +11,15 @@
     
     `$ git clone https://github.com/jaydenwindle/lotus-node-explorer.git`
 
-1. Install dependencies
+2. Install dependencies
     
     `$ yarn install`
 
-1. Run 
+3. Run 
     
     `$ yarn start`
+
+4. Login with your node's host and token
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
