@@ -19,7 +19,7 @@
     
     `$ yarn start`
 
-4. Login with your node's host and token
+4. Login to [http://localhost:3000](http://localhost:3000) with your node's host and token
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
