@@ -6186,9 +6186,9 @@ loose-envify@^1.0.0, loose-envify@^1.1.0, loose-envify@^1.4.0:
   dependencies:
     js-tokens "^3.0.0 || ^4.0.0"
 
-"lotus-js@git+ssh://git@github.com:jaydenwindle/lotus-js.git":
+"lotus-js@https://github.com/jaydenwindle/lotus-js.git":
   version "1.0.22"
-  resolved "git+ssh://git@github.com:jaydenwindle/lotus-js.git#621307f33c85e42f74cd0537d7ef0468b870eaae"
+  resolved "https://github.com/jaydenwindle/lotus-js.git#2aaa22e788b161ada7761506f201cbfe9e765c92"
   dependencies:
     rpc-websockets "4.5.1"
 
